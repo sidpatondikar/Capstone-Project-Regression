@@ -1,6 +1,11 @@
-# Capstone Project Regression
+![image](https://github.com/sidpatondikar/Capstone-Project-Regression/assets/83869822/8af25c02-ac73-40ef-b235-7d8cf5063b26)
 
-# Transport Demand Prediction
+
+# Capstone - Transport Demand Prediction
+
+-----------------------------------
+
+## Project Summary
 
 In summary, the project aims to create a model that predicts the number of seats sold for each ride on specific routes, dates, and times for Mobiticket. The routes originate from 14 towns towards Lake Victoria, ending in Nairobi. The journey takes around 8 to 9 hours to reach the outskirts of Nairobi and an additional 2 to 3 hours to reach the main bus terminal. Passengers are influenced by traffic conditions during their travel into the city and onward to their final destinations in Nairobi. Understanding these patterns can help improve service planning and optimize operations for Mobiticket.
 
