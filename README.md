@@ -98,7 +98,7 @@ To enhance the performance of the model, additional features have been generated
 The most significant features identified by the model are highlighted and displayed. These key features play a crucial role in determining the number of tickets sold for each ride. By showcasing these important factors, stakeholders can gain a better understanding of the influential elements driving ticket sales.
 
 -------------------------------------------------------------------------
-### Conclustion
+### Conclusion
 
 - In this project, we have used different regression models to predict transport demand from various places to nairobi.
 
