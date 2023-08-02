@@ -4,7 +4,7 @@
 # Capstone - Transport Demand Prediction
 
 -----------------------------------
-### Project Completion Certificate : https://certificates.almabetter.com/en/verify/55185409655240
+Project Completion Certificate : https://certificates.almabetter.com/en/verify/55185409655240
 
 -----------------------------------
 ## Project Summary
