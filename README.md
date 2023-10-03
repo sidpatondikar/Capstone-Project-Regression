@@ -9,6 +9,8 @@ Project Completion Certificate : https://certificates.almabetter.com/en/verify/5
 -----------------------------------
 ## Project Summary
 
+### Objective
+
 In summary, the project aims to create a model that predicts the number of seats sold for each ride on specific routes, dates, and times for Mobiticket. The routes originate from 14 towns towards Lake Victoria, ending in Nairobi. The journey takes around 8 to 9 hours to reach the outskirts of Nairobi and an additional 2 to 3 hours to reach the main bus terminal. Passengers are influenced by traffic conditions during their travel into the city and onward to their final destinations in Nairobi. Understanding these patterns can help improve service planning and optimize operations for Mobiticket.
 
 -------------------------------------
@@ -100,18 +102,7 @@ To enhance the performance of the model, additional features have been generated
 The most significant features identified by the model are highlighted and displayed. These key features play a crucial role in determining the number of tickets sold for each ride. By showcasing these important factors, stakeholders can gain a better understanding of the influential elements driving ticket sales.
 
 -------------------------------------------------------------------------
-### Conclusion
+### Impact Quantification
 
-- In this project, we have used different regression models to predict transport demand from various places to nairobi.
+This project resulted in hyperparameter tuned Random Forest based predictive model, achieving an R2 score of 94.2% for training data and 94.3% for test data.
 
-- Using the data, we have created the target variable and several other features that contribute to our model performance.
-
-- We have used regression models including:
-
-    Linear Models : Linear Regression, Lasso (L1), Ridge (L2)
-    Non Linear Models: Random Forest, XGBoost.
-    We have also performed hyperparameter tuning to improve the performance of these models.
-
-- Out of all these models, the hyperparameter tuned Random Forest gives the best result with an accuracy of around 94%.
-
-- Most important features came out to be distance_to_destination followed by Time_gap_btw_0_1_next_bus and travel_day_year_wise_weights.
